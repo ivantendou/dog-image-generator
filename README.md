@@ -1,16 +1,13 @@
-# dog_image_generator
+# Dog Image Generator App
+[![Stars](https://img.shields.io/github/stars/ivantendou/bookstash.svg)](https://github.com/ivantendou/bookstash/stargazers)
+[![Forks](https://img.shields.io/github/forks/ivantendou/bookstash.svg)](https://github.com/ivantendou/bookstash/network/members)
+[![Watchers](https://img.shields.io/github/watchers/ivantendou/bookstash.svg)](https://github.com/ivantendou/bookstash/watchers)
 
-A new Flutter project.
+✅ BLoC Implementation
 
-## Getting Started
+✅ Integrated with [Dog CEO](https://dog.ceo) API
 
-This project is a starting point for a Flutter application.
+![Add a heading](https://github.com/user-attachments/assets/dc5dd251-4b7f-48c3-b386-a978b7864528)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🐾 About Dog Image Generator
+Dog Image Generator is a fun app that gives you cute dog pictures instantly! Whether you love dogs, make memes, or just want something to make you smile, this app has lots of adorable dog images ready for you.
