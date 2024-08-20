@@ -1,7 +1,4 @@
 # Dog Image Generator App
-[![Stars](https://img.shields.io/github/stars/ivantendou/bookstash.svg)](https://github.com/ivantendou/bookstash/stargazers)
-[![Forks](https://img.shields.io/github/forks/ivantendou/bookstash.svg)](https://github.com/ivantendou/bookstash/network/members)
-[![Watchers](https://img.shields.io/github/watchers/ivantendou/bookstash.svg)](https://github.com/ivantendou/bookstash/watchers)
 
 ✅ BLoC Implementation
 
